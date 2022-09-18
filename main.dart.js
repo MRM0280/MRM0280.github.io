@@ -17439,7 +17439,7 @@ v_(a,b,c,d){var s=0,r=A.X(t.nm),q,p
 var $async$v_=A.Y(function(e,f){if(e===1)return A.U(f,r)
 while(true)switch(s){case 0:p=t.bi
 s=3
-return A.a_(A.Wv(A.az(["X-RapidAPI-Key","9a0658f3eamsh6738cf509b19112p1b2321jsn48f709a37172","X-RapidAPI-Host","finnhub-realtime-stock-price.p.rapidapi.com","Authorization","Bearer 8fec53082e4b889db87ef6ba9ac94fe1-0909d5b5ef294de97f0bc21dba5037fd","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,HEAD,OPTIONS,POST,PUT","Access-Control-Allow-Headers","access-control-allow-methods, x-rapidapi-key, Authorization, x-rapidapi-host, access-control-allow-origin"],p,p),"https://api-fxpractice.oanda.com/v3/instruments/"+a+"/candles?granularity="+d+"&price=M&from="+b+"&to="+c).a0h(0,B.xv),$async$v_)
+return A.a_(A.Wv(A.az(["X-RapidAPI-Key","9a0658f3eamsh6738cf509b19112p1b2321jsn48f709a37172","X-RapidAPI-Host","finnhub-realtime-stock-price.p.rapidapi.com","Authorization","Bearer 8fec53082e4b889db87ef6ba9ac94fe1-0909d5b5ef294de97f0bc21dba5037fd","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,HEAD,OPTIONS,POST,PUT","Access-Control-Allow-Headers","Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, x-rapidapi-key, Authorization, x-rapidapi-host, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers"],p,p),"https://api-fxpractice.oanda.com/v3/instruments/"+a+"/candles?granularity="+d+"&price=M&from="+b+"&to="+c).a0h(0,B.xv),$async$v_)
 case 3:q=f
 s=1
 break
